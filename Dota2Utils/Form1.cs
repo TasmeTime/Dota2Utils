@@ -61,6 +61,7 @@ namespace Dota2Utils
             }else if (e.KeyCode == Keys.Home)
             {
                 this.TopMost = true;
+                this.Visible = true;
             }
         }
 
