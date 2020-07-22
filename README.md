@@ -3,7 +3,7 @@ a cool dota 2 utils which contains only roshan timer for now.
 
 >make sure you run this tool as administrator.
 ## Roshan Timer Hot-Keys
- Page-Up: Start aegis and roshan timer
+ - Page-Up: Start aegis and roshan timer
 
 - Page-Down: Only start roshan timer
 
