@@ -43,11 +43,10 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(42, 92);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(49, 30);
+            this.label1.Size = new System.Drawing.Size(57, 33);
             this.label1.TabIndex = 0;
             this.label1.Text = "Idle";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             this.label1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.dragFunction);
             // 
             // label2
@@ -58,7 +57,7 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(119, 92);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(49, 30);
+            this.label2.Size = new System.Drawing.Size(57, 33);
             this.label2.TabIndex = 4;
             this.label2.Text = "Idle";
             this.label2.TextAlign = System.Drawing.ContentAlignment.TopCenter;
